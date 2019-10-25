@@ -1,0 +1,1 @@
+int[] arrayTwo = new int[lengthOfArray];
